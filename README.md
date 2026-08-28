@@ -57,11 +57,9 @@ Durante minha formação, mergulhei no universo do desenvolvimento **Full Stack*
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=igor-martins-gmm&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-martins-gmm&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Igormartins234&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igormartins234&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-> ⚠️ Troque `igor-martins-gmm` acima pelo seu usuário real do GitHub, caso seja diferente, para os cartões de estatística funcionarem.
 
 ---
 

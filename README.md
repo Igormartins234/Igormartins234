@@ -146,7 +146,7 @@ igor@dev:~$ _
 <table align="center">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Igormartins234&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E4&text_color=C9D1D9&ring_color=00F5FF" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Igormartins234&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E4&text_color=C9D1D9&ring_color=00F5FF"/>
 </td>
 <td width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igormartins234&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8" width="100%"/>
@@ -167,7 +167,11 @@ igor@dev:~$ _
 ## 🏆 Conquistas
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Igormartins234&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" width="100%"/>
+  <img
+    src="./.github/assets/trophy.svg"
+    width="100%"
+    alt="GitHub Trophies"
+  />
 </p>
 
 <br>

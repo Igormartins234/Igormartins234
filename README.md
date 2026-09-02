@@ -62,6 +62,17 @@
 
 <br>
 
+## Projetos
+
+<div align="center">
+
+Todos os meus projetos estão organizados e destacados na aba de **Stars** do meu perfil:
+
+### [⭐ Ver Projetos em Destaque](https://github.com/Igormartins234?tab=stars)
+
+</div>
+<br>
+
 ## Redes Sociais
 
 <div align="center">
